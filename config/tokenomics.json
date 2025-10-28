@@ -1,0 +1,10 @@
+{
+  "totalSupply": "1000000000",
+  "distribution": {
+    "developer": 400000000,
+    "presale": 250000000,
+    "liquidity": 150000000,
+    "marketing": 20000000,
+    "burnReserve": 180000000
+  }
+}

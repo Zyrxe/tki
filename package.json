@@ -1,0 +1,20 @@
+{
+  "name": "takulai-tki-project",
+  "version": "1.0.0",
+  "description": "TAKULAI (TKI) token project - demo Hardhat project",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.3.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.0",
+    "chai": "^4.3.7",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.0",
+    "hardhat": "^2.17.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0"
+  }
+}

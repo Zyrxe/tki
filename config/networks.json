@@ -1,0 +1,6 @@
+{
+  "sepolia": {
+    "url": "https://sepolia.infura.io/v3/YOUR_INFURA_KEY",
+    "chainId": 11155111
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "burnRatePercent": 5,
+  "feePercent": 2,
+  "maxBuy": 5000,
+  "maxSell": 1000,
+  "cooldownSeconds": 60
+}
